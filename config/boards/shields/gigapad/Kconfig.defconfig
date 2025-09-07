@@ -1,6 +1,6 @@
 if SHIELD_GIGAPAD
 
 config ZMK_KEYBOARD_NAME
-    default "gigapad"
+    default "Erre_Ce_Ese"
 
 endif
